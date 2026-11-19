@@ -1,0 +1,18 @@
+# 本地系统与工具缓存
+.DS_Store
+__pycache__/
+.venv/
+node_modules/
+.hyperframes/
+.env
+.env.*
+!.env.example
+
+# 大型制作资源按需另行管理
+models/
+reference_audio/
+generated_audio/
+*.mp4
+*.mov
+*.wav
+*.mp3
