@@ -1,0 +1,23 @@
+{
+  "full_decode": "passed",
+  "video": {
+    "codec_name": "h264",
+    "width": 1080,
+    "height": 1920,
+    "r_frame_rate": "24/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0"
+  },
+  "duration_seconds": 36.334,
+  "bytes": 32693574,
+  "audio_correlation_with_source": 0.999392476392869,
+  "pause_rms": 0.0,
+  "visual_method": "code-authored SVG + GSAP + local HyperFrames",
+  "image_or_video_generation_models_used": false,
+  "build_python": "llm_new",
+  "check": true
+}

@@ -1,0 +1,14 @@
+{
+  "source_start": 63.8,
+  "duration": 31.8,
+  "reference": "/data/project/smartroute-ml/wck/voice_working/reference_audio/贾队长-单人长参考音频.wav",
+  "steps": 20,
+  "cfg": 0.8,
+  "f0": true,
+  "auto_f0_adjust": false,
+  "variants": {
+    "原调转换": 0,
+    "角色声区转换": -5
+  },
+  "seed": 20261118
+}

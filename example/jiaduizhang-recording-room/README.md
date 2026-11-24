@@ -402,4 +402,4 @@ npm run render
 
 这条《贾队长：慌啥子嘛，慢慢来》短视频，采用了 AI 歌声转换与程序化像素动画相结合的制作方式。音频部分先用 Demucs 分离歌曲的人声和伴奏，再通过 Seed-VC 参考贾队长的单人音频进行换声，并结合音高分析选择降低五个半音的版本，伴奏同步降调后完成混音。画面部分用 Python 绘制鼎香楼系列的像素场景与人物，通过独立人声的能量包络驱动简化嘴形，用 GSAP 编排眨眼、摇摆、扶耳机和五个镜头的构图变化，最后由 HyperFrames 将 HTML 动画工程渲染为带歌词字幕的竖屏 MP4。整个项目保留了音频中间结果、素材生成脚本和可编辑视频工程，便于后续替换歌曲并延续系列风格。
 
-相关指南：[技术路线总览](../guides/video-production-overview.md)、[Pillow 与国风动漫](../guides/pillow-and-chinese-animation.md)、[连续动作与打斗](../guides/character-motion-and-fighting.md)。
+相关指南：[技术路线总览](../../docs/guides/video-production-overview.md)、[Pillow 与国风动漫](../../docs/guides/pillow-and-chinese-animation.md)、[连续动作与打斗](../../docs/guides/character-motion-and-fighting.md)。同一条降调音轨后来配成代码绘制的国风片，见 [国风鼎香楼案例项目](../guofeng-dingxiang-lou/README.md)。

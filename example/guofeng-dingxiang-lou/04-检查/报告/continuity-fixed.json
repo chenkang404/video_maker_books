@@ -1,0 +1,10 @@
+{
+  "file": "/data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/贾队长-慌啥子嘛-国风鼎香楼-修复闪烁版.mp4",
+  "frames": 872,
+  "adjacent_difference_mean": 0.6421222546455756,
+  "unintended_large_jumps": 0,
+  "large_jump_times": [],
+  "blank_or_partial_frames": 0,
+  "blank_frame_times": [],
+  "passed": true
+}

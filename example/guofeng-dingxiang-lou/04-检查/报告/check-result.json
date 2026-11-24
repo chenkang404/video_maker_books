@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 10
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 36.3,
+    "samples": [
+      2.017,
+      6.05,
+      10.083,
+      14.117,
+      18.15,
+      22.183,
+      26.217,
+      30.25,
+      34.283
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false,
+    "faceCheck": {
+      "ran": true,
+      "candidates": 0,
+      "faces": 0
+    }
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      2.017,
+      10.083,
+      18.15,
+      26.217,
+      34.283
+    ],
+    "checked": 15,
+    "passed": 15
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 291
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "c05f64e7-ce6c-4c2a-acb4-866cec574480",
+    "revision": null,
+    "report": "/data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/project/.hyperframes/artifacts/checks/c05f64e7-ce6c-4c2a-acb4-866cec574480.json",
+    "attribution": "inputs-changed"
+  },
+  "_meta": {
+    "version": "0.9.65",
+    "latestVersion": "0.9.70",
+    "updateAvailable": true,
+    "checkedAt": "2026-11-19T10:59:18.199Z",
+    "skillsOutdated": 2,
+    "skillsMissing": 2
+  }
+}

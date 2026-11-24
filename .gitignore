@@ -8,7 +8,7 @@ node_modules/
 .env.*
 !.env.example
 
-# 大型制作资源按需另行管理
+# 大型制作资源按需另行管理。案例目录里的过程音频和成片要进仓库，方便其他人对照。
 models/
 reference_audio/
 generated_audio/
@@ -16,3 +16,7 @@ generated_audio/
 *.mov
 *.wav
 *.mp3
+!example/**/*.mp4
+!example/**/*.mov
+!example/**/*.wav
+!example/**/*.mp3

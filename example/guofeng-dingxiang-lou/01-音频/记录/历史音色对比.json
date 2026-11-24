@@ -1,0 +1,27 @@
+{
+  "long_ref": {
+    "long_ref": 1.0,
+    "short_ref": 0.9184,
+    "wings": 0.8417
+  },
+  "short_ref": {
+    "long_ref": 0.9184,
+    "short_ref": 1.0,
+    "wings": 0.7839
+  },
+  "wings": {
+    "long_ref": 0.8417,
+    "short_ref": 0.7839,
+    "wings": 1.0
+  },
+  "old": {
+    "long_ref": 0.7991,
+    "short_ref": 0.7506,
+    "wings": 0.87
+  },
+  "strong": {
+    "long_ref": 0.7602,
+    "short_ref": 0.7955,
+    "wings": 0.8004
+  }
+}

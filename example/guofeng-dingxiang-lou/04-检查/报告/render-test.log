@@ -1,0 +1,24 @@
+
+◆  Rendering project → /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/review/稳定捕获试片.mp4
+   24fps · delivery · auto workers (12 cores usable)
+
+Checking browser...
+Browser: cache
+[INFO] [plan] stage {"stage":"copy","ms":923}
+[INFO] Compiled composition metadata {"entryFile":"index.html","staticDuration":36.3,"width":1080,"height":1920,"videoCount":0,"audioCount":1,"renderModeHints":{"recommendScreenshot":false,"reasons":[]}}
+[INFO] [plan] stage {"stage":"compile","ms":1349}
+[INFO] [plan] stage {"stage":"probe","ms":202}
+[INFO] [plan] stage {"stage":"reference_background","ms":1265}
+[INFO] [plan] stage {"stage":"extract","ms":1}
+[INFO] [plan] stage {"stage":"prehash","ms":97}
+[INFO] [audio] phases {"prepare":243,"groups":0,"mix":90,"master":0,"encode":458,"guard":536}
+[INFO] [plan] stage {"stage":"audio","ms":1331}
+[INFO] [plan] stage {"stage":"freeze","ms":5}
+[WARN] [renderChunk] Browser capability probe selected screenshot capture for the entire chunk {"chunkIndex":0}
+[INFO] [Render:trace] {"phase":"capture_chunk","status":"start","elapsedMs":1205,"chunkIndex":0}
+[INFO] [Render:trace] {"phase":"capture_chunk","status":"end","elapsedMs":6174,"durationMs":4969,"chunkIndex":0}
+
+◇  /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/review/稳定捕获试片.mp4
+   1.5 MB · rendered in 13.7s
+   Keep editing by chatting with Framey in the HyperFrames desktop app → https://hyperframes.studio/studio/download?os=linux&src=cli
+@hf-result {"version":1,"operation":"render","reference_background":{"kind":"solid","rgb":[155,137,107]}}

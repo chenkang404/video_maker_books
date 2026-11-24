@@ -1,0 +1,22 @@
+◆  Capturing 5 frames at [2s, 8s, 16s, 24s, 33s] from project
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (NVIDIA Corporation)" renderer="ANGLE (NVIDIA Corporation, NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2, OpenGL ES 3.2)")
+
+   Fonts: 1 loaded
+   Note: added an end-of-timeline frame at 36.05s. Short beats between your --at times may still be skipped — pass them explicitly.
+[hyperframes] snapshot: frame 1/6 at 2s
+[hyperframes] snapshot: frame 2/6 at 8s
+[hyperframes] snapshot: frame 3/6 at 16s
+[hyperframes] snapshot: frame 4/6 at 24s
+[hyperframes] snapshot: frame 5/6 at 33s
+[hyperframes] snapshot: frame 6/6 at 36.05s
+   Revision: none (inputs-changed)
+   State: /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/project/.hyperframes/video-state.json
+
+◇  6 snapshots saved to /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/frame-00-at-2s.png
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/frame-01-at-8s.png
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/frame-02-at-16s.png
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/frame-03-at-24s.png
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/frame-04-at-33s.png
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/frame-05-at-36.05s.png
+   /data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/final-previews/contact-sheet.jpg (grid view for AI review)

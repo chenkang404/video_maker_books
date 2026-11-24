@@ -1,0 +1,10 @@
+{
+  "file": "/data/project/smartroute-ml/wck/voice_working/generated_video/贾队长-慌啥子嘛-国风鼎香楼/review/稳定捕获试片.mp4",
+  "frames": 48,
+  "adjacent_difference_mean": 0.6182494828605201,
+  "unintended_large_jumps": 0,
+  "large_jump_times": [],
+  "blank_or_partial_frames": 0,
+  "blank_frame_times": [],
+  "passed": true
+}
